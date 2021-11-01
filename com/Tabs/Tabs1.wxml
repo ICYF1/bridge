@@ -1,0 +1,8 @@
+<!--com/Tabs/Tabs.wxml-->
+<view class="fu">
+    <view wx:for="{{list}}" wx:key="id" class="{{item.is?'te':''}}" bindtap="bindc" data-index="{{index}}">{{item.da}}</view>
+</view>
+<view>
+    <slot>
+    </slot>
+</view>

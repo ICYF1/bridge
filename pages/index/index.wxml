@@ -1,2 +1,6 @@
 <!--pages/index/index.wxml-->
-<text>pages/index/index.wxml</text>
+<Tabs list="{{li}}"binditemChange="ItemChange">
+<block wx:if="{{li[0].is}}">1</block>
+<block wx:elif="{{li[1].is}}">2</block>
+<block wx:else>3</block>
+</Tabs>

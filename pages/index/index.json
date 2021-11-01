@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "Tabs":"../../com/Tabs/Tabs1"
+  }
 }
