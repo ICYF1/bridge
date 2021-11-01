@@ -1,0 +1,21 @@
+{
+    "pages":[
+      "pages/index/index"
+    ],
+    "window":{
+      "backgroundTextStyle":"dark",
+      "navigationBarBackgroundColor": "#2e2e2e",
+      "navigationBarTitleText": "谌囿名",
+      "navigationBarTextStyle":"white",
+      "enablePullDownRefresh": true,
+      "backgroundColor": "#ffffff"
+  
+    },
+    "color": "#2e2e2e",
+    "selectedColor": "#26a69a",
+    "backgroundColor": "#2e2e2e",
+    "position": "top",
+    "style": "v2",
+    "sitemapLocation": "sitemap.json"
+  }
+  
